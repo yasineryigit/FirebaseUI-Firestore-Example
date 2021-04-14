@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325538547941",
+    "project_id": "fir-ui-firestore-example-3f928",
+    "storage_bucket": "fir-ui-firestore-example-3f928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325538547941:android:affc891c258cf355b1ac0c",
+        "android_client_info": {
+          "package_name": "com.ossovita.firebaseui_firestoreexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325538547941-uc438d6jg9ne4i6mn0udcieuuod1nsog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_BaspRo75jx8xcUPEaa8TrNuJekgbM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325538547941-uc438d6jg9ne4i6mn0udcieuuod1nsog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
